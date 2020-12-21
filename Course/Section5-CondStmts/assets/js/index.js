@@ -12,3 +12,5 @@ else if(sum > 50 && sum < 80)
 else{
     document.write("Fail")
 }
+
+document.write("Results Announced");
