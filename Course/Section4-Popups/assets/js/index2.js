@@ -7,3 +7,5 @@ if(num1!=null && num2!=null){
 else{
     document.write(Math.max(num1,num2));
 }
+
+document.write("Working Good!!");
